@@ -1,0 +1,15 @@
+name: stats-env
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - jupyterlab
+  - python=3.10
+  - matplotlib
+  - numpy
+  - scikit-learn
+  - pandas
+  - statsmodels
+  - seaborn
+prefix: /users/PAA0203/chonglu/.conda/envs/stats-env
